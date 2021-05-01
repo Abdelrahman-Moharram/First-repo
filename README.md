@@ -1,1 +1,2 @@
-# small projects with python Machine-Learning 
+# Training with some models of Machine-Learning
+Regression and Classification
